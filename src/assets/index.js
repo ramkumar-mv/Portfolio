@@ -1,4 +1,4 @@
-import rambanner from "/Users/ramkumarmv/Desktop/Masters/Portfolio-Website/ku-1/portfoliotwo-master/src/assets/rambanner.jpeg";
+import rambanner from "rambanner.jpeg";
 import workImgOne from "./work/workImgOne.jpg"
 import workImgTwo from "./work/workImgTwo.jpg"
 import workImgThree from "./work/workImgThree.jpg"
