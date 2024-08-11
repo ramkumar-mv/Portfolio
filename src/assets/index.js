@@ -1,4 +1,4 @@
-import rambanner from "rambanner.jpeg";
+import rambanner from "./rambanner.jpeg";
 import workImgOne from "./work/workImgOne.jpg"
 import workImgTwo from "./work/workImgTwo.jpg"
 import workImgThree from "./work/workImgThree.jpg"
