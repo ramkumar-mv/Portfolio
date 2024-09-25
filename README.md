@@ -20,5 +20,4 @@ To run this portfolio locally, clone the repository and install the necessary de
 
 ```bash
 git clone https://github.com/ramkumar-mv/portfolio.git
-cd portfolio
 ```
