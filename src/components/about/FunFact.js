@@ -23,7 +23,7 @@ const FunFact = () => {
         <FunFactCard icon={<FaAward />} des="Performance Based Scholarship Recipient" />
         <FunFactCard 
           icon={<IoNewspaper />} 
-          des="1 Research Paper - submitted, 2 Research paper on process" 
+          des="2 Research Paper - published, 1 Research paper -submitted, 1 Research paper on process" 
         />
       </div>
     </div>
