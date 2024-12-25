@@ -10,10 +10,22 @@ const Education = () => {
       <div className="col-span-9 md:col-span-4">
         <ResumeTitle title="Experience" icon={<MdWork />} />
         <ResumeCard
-          badge="Jun 2024 - Present"
-          title="AI/ML Developer"
+          badge="Sept 2024 - Present"
+          title="Project Associate"
           subTitle="IIT Madras"
-          des="Currently developing a security system and contributing to various automation projects."
+          des="Currently working with Indian Army."
+        />
+        <ResumeCard
+          badge="Jun 2024 - Aug 2024"
+          title="AI/ML Developer"
+          subTitle="Gemicates Technology"
+          des="Worked on security system for IOCL and contributing to various automation projects."
+        />
+          <ResumeCard
+          badge="Jan 2024 - May 2024"
+          title="AI/ML Intern"
+          subTitle="Adil Textiles Private Limited"
+          des="Worked on fabric defect detection system and predictive maintenance solution."
         />
         <ResumeCard
           badge="Jun 2023 - Sept 2023"
